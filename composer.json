@@ -1,0 +1,21 @@
+{
+    "name": "pagekit/todolink",
+    "version": "0.1",
+    "type": "pagekit-extension",
+    "title": "ToDo Test Link",
+    "description": "A ToDo Link develop your own extensions.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ToDo Link",
+            "email": "testlink@mail.ru",
+            "homepage": "http://testlink.ru"
+        }
+    ],
+    "extra": {
+        "icon": "icon.svg"
+    },
+    "archive": {
+        "exclude": ["node_modules"]
+    }
+}
